@@ -13,7 +13,7 @@ profile:
     <p>Chengdu, Sichuan, China</p>
     <p>jianhuang1998@gmail.com</p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
