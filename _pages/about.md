@@ -22,9 +22,7 @@ announcements:
   limit: 5
 
 latest_posts:
-  enabled: true
-  scrollable: true
-  limit: 3
+  enabled: false
 ---
 
 I am a Ph.D. student in Mathematics at the University of Electronic Science and Technology of China (UESTC). My research interests lie in optimization theory and algorithms, including numerical optimization, polynomial optimization, vector optimization, and convex optimization, as well as their applications in science and engineering.
