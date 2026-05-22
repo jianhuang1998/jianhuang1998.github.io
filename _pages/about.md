@@ -25,7 +25,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a Ph.D. student in Mathematics at the University of Electronic Science and Technology of China (UESTC). My research interests lie in optimization theory and algorithms, including numerical optimization, polynomial optimization, vector optimization, and convex optimization, as well as their applications in science and engineering.
+I am a Ph.D. student in Mathematics at the University of Electronic Science and Technology of China (UESTC). My research interests include optimization theory and numerical algorithms, with a focus on polynomial optimization, vector optimization, reinforcement learning, and optimization for machine learning, as well as their applications in artificial intelligence, science, and engineering.
 <div style="width: 200px; margin: 0 auto;">
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Nacyx0tD_6j8kWDzX23tLUHbtte4PpavJjwKvsKefws"></script>
 </div>
